@@ -1,0 +1,2 @@
+# Quick command to run from VS Code terminal
+C:\Users\Jatin\anaconda3\envs\torch_gpu\python.exe C:\Users\Jatin\Desktop\ongogenesis\backend\app.py
